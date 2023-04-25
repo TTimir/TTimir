@@ -25,11 +25,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building websites.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring UI/ UX Design.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I've find the crazy design codes and read UI/ UX articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-timirbhingradiya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timir-bhingradiya-b130a6218)
 
