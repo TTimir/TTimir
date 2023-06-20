@@ -3,6 +3,10 @@
 </div>
 <br />
 <div id="badges" align="center">
+  <a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
+  </a>
+  <br />
   <a href="https://www.linkedin.com/in/timir-bhingradiya-b130a6218/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -33,6 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-timirbhingradiya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timir-bhingradiya-b130a6218)
 
+- 🤝:All of my projects are available at: [![Name](https://img.shields.io/badge/timir_bhingradiya-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://ttimir.github.io/timirbhingradiya-pf.github.io/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -41,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://www.prchecker.info/free-icons/64x64/asp_net_64_px.png" alt="asp.net" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/534/663/png-clipart-net-framework-software-framework-c-microsoft-asp-net-microsoft-blue-angle-thumbnail.png" alt="asp.net" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="40" height="40"/>
   <img src="https://teorema-rd.com/storage/2020/05/microsoft-SQL-server-logo.jpg" alt="mssql" width="80" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="30" height="40"/>&nbsp;
