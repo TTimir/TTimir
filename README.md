@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgyYTYzODZlNTRjN2UyOTg3ZjQ5Njg3MTA0MmIyNWI2ZDYyNDRmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
+<div id="badges" align="center">
+  <a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
   </a>
-<br />
-<div id="badges" align="center">
+  <br />
   <a href="https://www.linkedin.com/in/timir-bhingradiya-b130a6218/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
