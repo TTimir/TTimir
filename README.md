@@ -3,14 +3,13 @@
 </div>
 <br />
 <div id="badges" align="center">
-  <a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
-  </a>
-  <br />
   <a href="https://www.linkedin.com/in/timir-bhingradiya-b130a6218/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br />
+  <a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
+  </a>
   <p align="center">
   <a href="https://www.buymeacoffee.com/timirbhingO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   </p>
