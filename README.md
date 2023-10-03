@@ -40,13 +40,14 @@ I am a .Net Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="45" height="45"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="45" height="45"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/534/663/png-clipart-net-framework-software-framework-c-microsoft-asp-net-microsoft-blue-angle-thumbnail.png" alt="asp.net" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="40" height="40"/>
-  <img src="https://teorema-rd.com/storage/2020/05/microsoft-SQL-server-logo.jpg" alt="mssql" width="80" height="50"/>
+  <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" alt="asp.net" width="55" height="55"/>&nbsp;
+  <img src="https://codeopinion.com/wp-content/uploads/2017/06/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB-300x300.png" alt="csharp" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="45" height="45"/>&nbsp;
+  <img src="https://teorema-rd.com/storage/2020/05/microsoft-SQL-server-logo.jpg" alt="mssql" width="60" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="30" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="sketch" width="40" height="40"/>&nbsp;
