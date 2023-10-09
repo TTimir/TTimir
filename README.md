@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
   </a>
   <br />
-  <p align="center">
-  <a href="https://www.buymeacoffee.com/timirbhingO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  </p>
   <img src="https://komarev.com/ghpvc/?username=TTimir&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
