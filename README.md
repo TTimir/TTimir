@@ -5,10 +5,14 @@
   <a href="https://www.linkedin.com/in/timir-bhingradiya-b130a6218/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.behance.net/timirbhingra">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+  <br />
   <a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
   </a>
- </div>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -16,13 +20,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a .Net Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building websites.
 
 - :seedling: Exploring UI/ UX Design.
 
-- :zap: In my free time, I've find the crazy design codes and read UI/ UX articles.
+- :zap: In my free time, I've find the crazy designes and playing some adventurous games.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-timirbhingradiya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timir-bhingradiya-b130a6218)
 
