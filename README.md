@@ -8,9 +8,7 @@
   <a href="https://ttimir.github.io/timirbhingradiya-pf.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-3C948B?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio"/>
   </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=TTimir&style=flat-square&color=blue" alt=""/>
-</div>
+ </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
