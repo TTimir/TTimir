@@ -56,3 +56,8 @@ I am a <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&lo
 [![GitHub Streak](https://streak-stats.demolab.com?user=TTimir)](https://git.io/streak-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTimir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌠  My Performance :
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
